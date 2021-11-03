@@ -1,5 +1,11 @@
 # RESTAURANT FINAL
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/Leonardorichie/pen/oNepwdW](https://codepen.io/Leonardorichie/pen/oNepwdW).
+Hello sir! here are our website design for a restaurant
+
+Team name:
+Leonardo Richie // 2502005856
+Raissa Azaria // 2502005805
+
+Thank You!
 
 
